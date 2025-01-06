@@ -4,3 +4,5 @@ Mooooo!
 The cow, it says "Moo".
 
 La vaca dice "Moo".
+
+La gatita tiene hambre.
